@@ -1,0 +1,82 @@
+0 852 blocks    24 its      6.250 Fl/B        689 GB/s      4306 GF/s   1050 Mhz   196 W   58°C
+
+0 852 blocks    28 its      7.250 Fl/B        688 GB/s      4988 GF/s   1050 Mhz   199 W   59°C
+
+0 852 blocks    32 its      8.250 Fl/B        687 GB/s      5667 GF/s   1050 Mhz   201 W   60°C
+
+0 852 blocks    36 its      9.250 Fl/B        686 GB/s      6344 GF/s   1050 Mhz   204 W   61°C
+
+0 852 blocks    40 its      10.250 Fl/B        685 GB/s      7019 GF/s   1050 Mhz   206 W   62°C
+
+0 852 blocks    44 its      11.250 Fl/B        684 GB/s      7693 GF/s   1050 Mhz   208 W   62°C
+
+0 852 blocks    48 its      12.250 Fl/B        683 GB/s      8367 GF/s   1050 Mhz   210 W   63°C
+
+0 852 blocks    54 its      13.750 Fl/B        682 GB/s      9378 GF/s   1050 Mhz   213 W   64°C
+
+0 852 blocks    60 its      15.250 Fl/B        681 GB/s     10384 GF/s   1050 Mhz   217 W   65°C
+
+0 852 blocks    66 its      16.750 Fl/B        680 GB/s     11398 GF/s   1050 Mhz   221 W   66°C
+
+0 852 blocks    72 its      18.250 Fl/B        680 GB/s     12407 GF/s   1050 Mhz   223 W   67°C
+
+0 852 blocks    80 its      20.250 Fl/B        679 GB/s     13755 GF/s   1050 Mhz   227 W   68°C
+
+0 852 blocks    88 its      22.250 Fl/B        679 GB/s     15099 GF/s   1050 Mhz   230 W   69°C
+
+0 852 blocks    96 its      24.250 Fl/B        678 GB/s     16432 GF/s   1050 Mhz   233 W   69°C
+
+0 852 blocks   106 its      26.750 Fl/B        676 GB/s     18083 GF/s   1050 Mhz   238 W   70°C
+
+0 852 blocks   116 its      29.250 Fl/B        673 GB/s     19692 GF/s   1050 Mhz   242 W   72°C
+
+0 852 blocks   126 its      31.750 Fl/B        671 GB/s     21308 GF/s   1050 Mhz   247 W   73°C
+
+0 852 blocks   138 its      34.750 Fl/B        661 GB/s     22986 GF/s   1050 Mhz   250 W   74°C
+
+0 852 blocks   150 its      37.750 Fl/B        626 GB/s     23616 GF/s   1050 Mhz   248 W   74°C
+
+0 852 blocks   164 its      41.250 Fl/B        578 GB/s     23846 GF/s   1050 Mhz   245 W   75°C
+
+0 852 blocks   178 its      44.750 Fl/B        536 GB/s     23994 GF/s   1050 Mhz   243 W   76°C
+
+0 852 blocks   194 its      48.750 Fl/B        494 GB/s     24065 GF/s   1050 Mhz   240 W   76°C
+
+0 852 blocks   212 its      53.250 Fl/B        455 GB/s     24221 GF/s   1050 Mhz   237 W   77°C
+
+0 852 blocks   230 its      57.750 Fl/B        421 GB/s     24315 GF/s   1050 Mhz   235 W   77°C
+
+0 852 blocks   250 its      62.750 Fl/B        389 GB/s     24413 GF/s   1050 Mhz   232 W   78°C
+
+0 852 blocks   272 its      68.250 Fl/B        360 GB/s     24550 GF/s   1050 Mhz   229 W   78°C
+
+0 852 blocks   296 its      74.250 Fl/B        331 GB/s     24600 GF/s   1050 Mhz   226 W   78°C
+
+0 852 blocks   322 its      80.750 Fl/B        305 GB/s     24621 GF/s   1050 Mhz   223 W   78°C
+
+0 852 blocks   350 its      87.750 Fl/B        280 GB/s     24557 GF/s   1050 Mhz   220 W   78°C
+
+0 852 blocks   380 its      95.250 Fl/B        259 GB/s     24647 GF/s   1050 Mhz   216 W   77°C
+
+0 852 blocks   412 its      103.250 Fl/B        240 GB/s     24797 GF/s   1050 Mhz   213 W   77°C
+
+0 852 blocks   448 its      112.250 Fl/B        220 GB/s     24693 GF/s   1050 Mhz   211 W   77°C
+
+0 852 blocks   486 its      121.750 Fl/B        204 GB/s     24848 GF/s   1050 Mhz   207 W   76°C
+
+0 852 blocks   528 its      132.250 Fl/B        189 GB/s     24989 GF/s   1050 Mhz   204 W   75°C
+
+0 852 blocks   574 its      143.750 Fl/B        173 GB/s     24878 GF/s   1050 Mhz   200 W   74°C
+
+0 852 blocks   622 its      155.750 Fl/B        161 GB/s     25045 GF/s   1050 Mhz   196 W   74°C
+
+0 852 blocks   674 its      168.750 Fl/B        148 GB/s     24934 GF/s   1050 Mhz   192 W   73°C
+
+0 852 blocks   732 its      183.250 Fl/B        137 GB/s     25123 GF/s   1050 Mhz   187 W   72°C
+
+0 852 blocks   794 its      198.750 Fl/B        126 GB/s     24979 GF/s   1050 Mhz   186 W   71°C
+
+0 852 blocks   862 its      215.750 Fl/B        117 GB/s     25154 GF/s   1050 Mhz   184 W   70°C
+
+0 852 blocks   934 its      233.750 Fl/B        108 GB/s     25150 GF/s   1050 Mhz   181 W   69°C
+

@@ -1,0 +1,104 @@
+0 852 blocks     4 its      1.250 Fl/B        680 GB/s       850 GF/s   600 Mhz   178 W   45°C
+
+0 852 blocks     6 its      1.750 Fl/B        679 GB/s      1189 GF/s   600 Mhz   180 W   47°C
+
+0 852 blocks     8 its      2.250 Fl/B        681 GB/s      1533 GF/s   600 Mhz   181 W   48°C
+
+0 852 blocks    10 its      2.750 Fl/B        681 GB/s      1872 GF/s   600 Mhz   182 W   50°C
+
+0 852 blocks    12 its      3.250 Fl/B        680 GB/s      2210 GF/s   600 Mhz   184 W   51°C
+
+0 852 blocks    14 its      3.750 Fl/B        680 GB/s      2549 GF/s   600 Mhz   185 W   52°C
+
+0 852 blocks    16 its      4.250 Fl/B        679 GB/s      2886 GF/s   600 Mhz   187 W   53°C
+
+0 852 blocks    18 its      4.750 Fl/B        679 GB/s      3224 GF/s   600 Mhz   188 W   54°C
+
+0 852 blocks    20 its      5.250 Fl/B        678 GB/s      3561 GF/s   600 Mhz   189 W   55°C
+
+0 852 blocks    22 its      5.750 Fl/B        685 GB/s      3936 GF/s   600 Mhz   191 W   56°C
+
+0 852 blocks    24 its      6.250 Fl/B        684 GB/s      4273 GF/s   600 Mhz   193 W   57°C
+
+0 852 blocks    28 its      7.250 Fl/B        682 GB/s      4945 GF/s   600 Mhz   195 W   58°C
+
+0 852 blocks    32 its      8.250 Fl/B        681 GB/s      5617 GF/s   600 Mhz   198 W   59°C
+
+0 852 blocks    36 its      9.250 Fl/B        680 GB/s      6290 GF/s   600 Mhz   200 W   60°C
+
+0 852 blocks    40 its      10.250 Fl/B        679 GB/s      6963 GF/s   600 Mhz   202 W   60°C
+
+0 852 blocks    44 its      11.250 Fl/B        679 GB/s      7636 GF/s   600 Mhz   204 W   61°C
+
+0 852 blocks    48 its      12.250 Fl/B        678 GB/s      8306 GF/s   600 Mhz   206 W   62°C
+
+0 852 blocks    54 its      13.750 Fl/B        677 GB/s      9306 GF/s   600 Mhz   209 W   63°C
+
+0 852 blocks    60 its      15.250 Fl/B        674 GB/s     10281 GF/s   600 Mhz   212 W   64°C
+
+0 852 blocks    66 its      16.750 Fl/B        671 GB/s     11240 GF/s   600 Mhz   215 W   65°C
+
+0 852 blocks    72 its      18.250 Fl/B        666 GB/s     12162 GF/s   600 Mhz   217 W   66°C
+
+0 852 blocks    80 its      20.250 Fl/B        643 GB/s     13026 GF/s   600 Mhz   216 W   66°C
+
+0 852 blocks    88 its      22.250 Fl/B        592 GB/s     13170 GF/s   600 Mhz   214 W   67°C
+
+0 852 blocks    96 its      24.250 Fl/B        549 GB/s     13325 GF/s   600 Mhz   211 W   67°C
+
+0 852 blocks   106 its      26.750 Fl/B        504 GB/s     13470 GF/s   600 Mhz   207 W   68°C
+
+0 852 blocks   116 its      29.250 Fl/B        464 GB/s     13581 GF/s   600 Mhz   203 W   68°C
+
+0 852 blocks   126 its      31.750 Fl/B        429 GB/s     13621 GF/s   600 Mhz   199 W   68°C
+
+0 852 blocks   138 its      34.750 Fl/B        392 GB/s     13635 GF/s   600 Mhz   196 W   68°C
+
+0 852 blocks   150 its      37.750 Fl/B        364 GB/s     13746 GF/s   600 Mhz   194 W   68°C
+
+0 852 blocks   164 its      41.250 Fl/B        335 GB/s     13829 GF/s   600 Mhz   191 W   68°C
+
+0 852 blocks   178 its      44.750 Fl/B        311 GB/s     13896 GF/s   600 Mhz   188 W   68°C
+
+0 852 blocks   194 its      48.750 Fl/B        286 GB/s     13920 GF/s   600 Mhz   185 W   68°C
+
+0 852 blocks   212 its      53.250 Fl/B        263 GB/s     14017 GF/s   600 Mhz   182 W   67°C
+
+0 852 blocks   230 its      57.750 Fl/B        243 GB/s     14017 GF/s   600 Mhz   179 W   67°C
+
+0 852 blocks   250 its      62.750 Fl/B        224 GB/s     14064 GF/s   600 Mhz   175 W   67°C
+
+0 852 blocks   272 its      68.250 Fl/B        207 GB/s     14126 GF/s   600 Mhz   173 W   66°C
+
+0 852 blocks   296 its      74.250 Fl/B        191 GB/s     14165 GF/s   600 Mhz   171 W   65°C
+
+0 852 blocks   322 its      80.750 Fl/B        175 GB/s     14168 GF/s   600 Mhz   168 W   65°C
+
+0 852 blocks   350 its      87.750 Fl/B        161 GB/s     14133 GF/s   600 Mhz   164 W   64°C
+
+0 852 blocks   380 its      95.250 Fl/B        149 GB/s     14165 GF/s   600 Mhz   161 W   63°C
+
+0 852 blocks   412 its      103.250 Fl/B        138 GB/s     14259 GF/s   600 Mhz   159 W   63°C
+
+0 852 blocks   448 its      112.250 Fl/B        126 GB/s     14173 GF/s   600 Mhz   156 W   62°C
+
+0 852 blocks   486 its      121.750 Fl/B        117 GB/s     14282 GF/s   600 Mhz   152 W   61°C
+
+0 852 blocks   528 its      132.250 Fl/B        108 GB/s     14333 GF/s   600 Mhz   150 W   60°C
+
+0 852 blocks   574 its      143.750 Fl/B         99 GB/s     14284 GF/s   600 Mhz   147 W   59°C
+
+0 852 blocks   622 its      155.750 Fl/B         92 GB/s     14354 GF/s   600 Mhz   144 W   59°C
+
+0 852 blocks   674 its      168.750 Fl/B         85 GB/s     14299 GF/s   600 Mhz   141 W   58°C
+
+0 852 blocks   732 its      183.250 Fl/B         79 GB/s     14405 GF/s   600 Mhz   139 W   57°C
+
+0 852 blocks   794 its      198.750 Fl/B         72 GB/s     14317 GF/s   600 Mhz   137 W   56°C
+
+0 852 blocks   862 its      215.750 Fl/B         67 GB/s     14416 GF/s   600 Mhz   134 W   56°C
+
+0 852 blocks   934 its      233.750 Fl/B         62 GB/s     14419 GF/s   600 Mhz   133 W   55°C
+
+0 852 blocks   1012 its      253.250 Fl/B         57 GB/s     14437 GF/s   600 Mhz   130 W   55°C
+
