@@ -36,7 +36,7 @@ echo "-- Finished Building --"
 if [ -n "$2" ]; then
     output_file="$2"
 else
-    output_file="l40s-2700.txt"
+    output_file="rtxpro4500-2700.txt"
 fi
 
 > "$output_file"
