@@ -1,17 +1,17 @@
 #!/bin/bash
 
 
-sudo pkill -u jothi
 
-conda activate /home/devshree/data/miniconda3/envs/torch_env
+conda activate /home/nalini/data/miniconda3/envs/diffusion
 
-nvidia-smi --query-gpu=name,clocks.current.graphics,clocks.current.memory --format=csv
+# nvidia-smi --query-gpu=name,clocks.current.graphics,clocks.current.memory --format=csv
 
 # sudo nvidia-smi -i 0 -rgc
+sleep 240
 
 sudo nvidia-smi -i 0 -lgc 2550,2550
 
-sed -i 's/l40s-[^.]*\.txt/l40s-2550.txt/g' series.sh
+sed -i 's/rtxpro4000-[^.]*\.txt/rtxpro4000-2550.txt/g' series.sh
 
 make
 
