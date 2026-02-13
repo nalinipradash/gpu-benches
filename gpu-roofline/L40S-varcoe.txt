@@ -1,2 +1,0 @@
-0 852 blocks     4 its      1.250 Fl/B        681 GB/s       851 GF/s   2520 Mhz   225 W   44°C
-
